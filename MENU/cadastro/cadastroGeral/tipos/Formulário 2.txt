@@ -1,0 +1,6 @@
+	Tipo: input
+	Nome: f_tipo_produto_nm_tipo_produto
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar

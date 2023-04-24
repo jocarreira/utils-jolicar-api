@@ -1,0 +1,12 @@
+	Tipo: input
+	Nome: f_grupo_fornecedor_cd_grupo_fornecedor
+	Valor: 
+	Tipo: input
+	Nome: f_grupo_fornecedor_nm_grupo_fornecedor
+	Valor: 
+	Tipo: input
+	Nome: f_grupo_fornecedor_cd_grupo
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar

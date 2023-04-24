@@ -1,0 +1,9 @@
+	Tipo: input
+	Nome: f_unidade_operacional_cd_unidade
+	Valor: 
+	Tipo: input
+	Nome: f_unidade_operacional_nm_unidade
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar

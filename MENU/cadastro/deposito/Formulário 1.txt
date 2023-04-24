@@ -1,0 +1,21 @@
+	Tipo: input
+	Nome: f_cd_movimento_atual
+	Valor: 
+	Tipo: input
+	Nome: f_nr_bloco_atual
+	Valor: 
+	Tipo: input
+	Nome: f_nr_andar_atual
+	Valor: 
+	Tipo: input
+	Nome: f_nr_apartamento_atual
+	Valor: 
+	Tipo: input
+	Nome: f_nr_bloco_novo
+	Valor: 
+	Tipo: input
+	Nome: f_nr_andar_novo
+	Valor: 
+	Tipo: input
+	Nome: f_nr_apartamento_novo
+	Valor: 

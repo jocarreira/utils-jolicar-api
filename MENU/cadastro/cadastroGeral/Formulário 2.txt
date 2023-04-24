@@ -1,0 +1,9 @@
+	Tipo: input
+	Nome: f_status_nfe_cd_status_nfe
+	Valor: 
+	Tipo: input
+	Nome: f_status_nfe_nm_status_nfe
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar

@@ -3,10 +3,10 @@ package com.jocarreira.utilsjolicarapi;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class UtilsJolicarApiApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 

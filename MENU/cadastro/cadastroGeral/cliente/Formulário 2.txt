@@ -1,0 +1,12 @@
+	Tipo: input
+	Nome: f_cliente_situacao_cd_cliente_situacao
+	Valor: 
+	Tipo: input
+	Nome: f_cliente_situacao_ds_cliente_situacao
+	Valor: 
+	Tipo: input
+	Nome: f_cliente_situacao_cd_cor
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar

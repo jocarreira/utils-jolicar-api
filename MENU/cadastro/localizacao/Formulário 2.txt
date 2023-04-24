@@ -1,0 +1,6 @@
+	Tipo: input
+	Nome: f_regiao_nm_regiao
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar

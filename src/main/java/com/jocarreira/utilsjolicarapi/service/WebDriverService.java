@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriverService;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,16 +16,17 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-public class WebDriverUtil {
+@Service
+public class WebDriverService {
 
-    private static ChromeDriverService service;
-    public static WebDriver driver;
+    private ChromeDriverService service;
+    public WebDriver driver;
 
-    private static String urlBase = "http://admroyaltrudel.veplex.com.br/";
+    private String urlBase = "http://admroyaltrudel.veplex.com.br/";
 
-    private static String rootPathDest = "C:/MEUS_PROJETOS/Html2React2/MENU/";
+    private String rootPathDest = "C:/MEUS_PROJETOS/Html2React2/MENU/";
 
-    private static void getService() {
+    private void getService() {
         service = new ChromeDriverService.Builder()
                 .usingDriverExecutable(new File("C:/DRIVER/chromedriver_win32_111/chromedriver.exe"))
                 .usingAnyFreePort()
@@ -35,7 +37,7 @@ public class WebDriverUtil {
             throw new RuntimeException(e);
         }
     }
-    public static WebDriver executarLogin(String nomeElementoUsuario, String usuario, String nomeElementoSenha, String senha) {
+    public WebDriver executarLogin(String nomeElementoUsuario, String usuario, String nomeElementoSenha, String senha) {
         getService();
         driver = new RemoteWebDriver(service.getUrl(), new ChromeOptions());
         // Acessa a página de login
@@ -66,7 +68,7 @@ public class WebDriverUtil {
         return driver;
     }
 
-    public static void getDataFromLink(WebDriver ldriver, String urlBase, ItemMenu itemMenu) {
+    public void getDataFromLink(WebDriver ldriver, String urlBase, ItemMenu itemMenu) {
         if (!itemMenu.getLink().trim().isEmpty()) {
             try {
                 String subDir = itemMenu.getSubDir();
@@ -99,14 +101,47 @@ public class WebDriverUtil {
         //campoUsuario.sendKeys(usuario);
     }
 
-    private static Map<String, List<Map<String, String>>> acessaDadosFormularios(WebDriver driver, String urlBase, String link) {
+    private  Map<String, List<Map<String, String>>> acessaDadosFormularios(WebDriver driver, String urlBase, String link) {
         Map<String, List<Map<String, String>>> dadosFormularios = new LinkedHashMap<>();
         driver.get(urlBase + link);
 
-        List<WebElement> formularios = driver.findElements(By.tagName("form"));
+        //dadosFormularios = getDadosFormularios(driver, "form");
+        dadosFormularios = getDadosFormulariosCenter(driver, "center");
+
+        return dadosFormularios;
+    }
+
+    //JEFERSON
+    private  Map<String, List<Map<String, String>>> getDadosFormulariosCenter(WebDriver driver, String nomeElementoRoot) {
+        Map<String, List<Map<String, String>>> dadosFormularios = new LinkedHashMap<>();
+        List<WebElement> center = driver.findElements(By.tagName(nomeElementoRoot));
+        List<Map<String, String>> dadosElementos = new ArrayList<>();
+        for (int i = 0; i < center.size(); i++) {
+            WebElement elementCenter = center.get(i);
+            List<WebElement> forms = elementCenter.findElements(By.tagName("form"));
+            for (int j = 0; j < forms.size(); j++) {
+                WebElement form = forms.get(i);
+                Map<String, String> dadosElemento = new LinkedHashMap<>();
+                String nomeFormulario = form.getAttribute("name");
+                String actionFormulario = form.getAttribute("action" );
+                dadosElemento.put("name_form", nomeFormulario);
+                dadosElemento.put("action_form", actionFormulario);
+                dadosElementos.add(dadosElemento);
+            }
+            List<WebElement> table = elementCenter.findElements(By.tagName("table"));
+        }
+        return dadosFormularios;
+    }
+
+    //JEFERSON
+    private  Map<String, List<Map<String, String>>> getDadosFormularios(WebDriver driver, String nomeElementoRoot) {
+        Map<String, List<Map<String, String>>> dadosFormularios = new LinkedHashMap<>();
+        List<WebElement> formularios = driver.findElements(By.tagName(nomeElementoRoot));
         for (int i = 0; i < formularios.size(); i++) {
             WebElement formulario = formularios.get(i);
-            String nomeFormulario = "Formulário " + (i+1);
+            //String nomeFormulario = "Formulário " + (i+1);
+            String nomeFormulario = formulario.getAttribute("name");
+            String actionFormulario = formulario.getAttribute("action" );  // JEFERSON
 
             List<Map<String, String>> dadosElementos = new ArrayList<>();
             List<WebElement> elementos = formulario.findElements(By.cssSelector("input[type='text'], textarea, input[type='button']"));
@@ -120,12 +155,9 @@ public class WebDriverUtil {
                 dadosElemento.put("Valor", valorElemento);
                 dadosElementos.add(dadosElemento);
             }
-
             dadosFormularios.put(nomeFormulario, dadosElementos);
         }
-
         return dadosFormularios;
     }
-
 
 }

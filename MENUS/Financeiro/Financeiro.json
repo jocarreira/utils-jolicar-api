@@ -1,0 +1,3141 @@
+{
+  "id": 563,
+  "label": "\u003eFinanceiro",
+  "link": "",
+  "subitems": [
+    {
+      "id": 563,
+      "label": "\u003eAcordo Comercial",
+      "link": "",
+      "subitems": [
+        {
+          "id": 563,
+          "label": "\u003eProposta",
+          "link": "",
+          "subitems": [
+            {
+              "id": 563,
+              "label": "Ação Item Mecânica",
+              "link": "/sel_pac_acao_item_mecanica.php"
+            },
+            {
+              "id": 564,
+              "label": "Documento Comprobatório",
+              "link": "/sel_pac_item_documento_comprobatorio.php"
+            },
+            {
+              "id": 565,
+              "label": "Proposta",
+              "link": "/sel_proposta_acordo_comercial.php"
+            },
+            {
+              "id": 566,
+              "label": "Subgrupo Ação",
+              "link": "/sel_pac_subgrupo_acao.php"
+            }
+          ]
+        },
+        {
+          "id": 564,
+          "label": "Ação Item Mecânica",
+          "link": "/sel_pac_acao_item_mecanica.php"
+        },
+        {
+          "id": 565,
+          "label": "Documento Comprobatório",
+          "link": "/sel_pac_item_documento_comprobatorio.php"
+        },
+        {
+          "id": 566,
+          "label": "Proposta",
+          "link": "/sel_proposta_acordo_comercial.php"
+        },
+        {
+          "id": 567,
+          "label": "Subgrupo Ação",
+          "link": "/sel_pac_subgrupo_acao.php"
+        },
+        {
+          "id": 568,
+          "label": "Acordos",
+          "link": "/sel_acordo_comercial.php"
+        },
+        {
+          "id": 569,
+          "label": "Modelo",
+          "link": "/sel_documento_modelo.php"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "label": "\u003eProposta",
+      "link": "",
+      "subitems": [
+        {
+          "id": 564,
+          "label": "Ação Item Mecânica",
+          "link": "/sel_pac_acao_item_mecanica.php"
+        },
+        {
+          "id": 565,
+          "label": "Documento Comprobatório",
+          "link": "/sel_pac_item_documento_comprobatorio.php"
+        },
+        {
+          "id": 566,
+          "label": "Proposta",
+          "link": "/sel_proposta_acordo_comercial.php"
+        },
+        {
+          "id": 567,
+          "label": "Subgrupo Ação",
+          "link": "/sel_pac_subgrupo_acao.php"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "label": "Ação Item Mecânica",
+      "link": "/sel_pac_acao_item_mecanica.php"
+    },
+    {
+      "id": 566,
+      "label": "Documento Comprobatório",
+      "link": "/sel_pac_item_documento_comprobatorio.php"
+    },
+    {
+      "id": 567,
+      "label": "Proposta",
+      "link": "/sel_proposta_acordo_comercial.php"
+    },
+    {
+      "id": 568,
+      "label": "Subgrupo Ação",
+      "link": "/sel_pac_subgrupo_acao.php"
+    },
+    {
+      "id": 569,
+      "label": "Acordos",
+      "link": "/sel_acordo_comercial.php"
+    },
+    {
+      "id": 570,
+      "label": "Modelo",
+      "link": "/sel_documento_modelo.php"
+    },
+    {
+      "id": 571,
+      "label": "\u003eAnálise",
+      "link": "",
+      "subitems": [
+        {
+          "id": 571,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 571,
+              "label": "Análise Rede",
+              "link": "/fil_analise_rede.php"
+            },
+            {
+              "id": 572,
+              "label": "Histórico Cliente",
+              "link": "/fil_historico_cliente.php"
+            },
+            {
+              "id": 573,
+              "label": "Pedido com Justificativa",
+              "link": "/fil_justificativa_pedido.php"
+            },
+            {
+              "id": 574,
+              "label": "Pedidos Cancelado por Limite",
+              "link": "/fil_analise_cancelamento_pedido.php"
+            }
+          ]
+        },
+        {
+          "id": 572,
+          "label": "Análise Rede",
+          "link": "/fil_analise_rede.php"
+        },
+        {
+          "id": 573,
+          "label": "Histórico Cliente",
+          "link": "/fil_historico_cliente.php"
+        },
+        {
+          "id": 574,
+          "label": "Pedido com Justificativa",
+          "link": "/fil_justificativa_pedido.php"
+        },
+        {
+          "id": 575,
+          "label": "Pedidos Cancelado por Limite",
+          "link": "/fil_analise_cancelamento_pedido.php"
+        },
+        {
+          "id": 576,
+          "label": "Cliente Pendente",
+          "link": "/sel_cliente_novo.php"
+        },
+        {
+          "id": 577,
+          "label": "Pedido Cadastro",
+          "link": "/sel_historico_situacao_pedido_cadastro.php"
+        },
+        {
+          "id": 578,
+          "label": "Pedido Faturamento",
+          "link": "/sel_historico_situacao_pedido_faturamento.php"
+        },
+        {
+          "id": 579,
+          "label": "Pedido Financeiro",
+          "link": "/sel_historico_situacao_pedido_financeiro.php"
+        },
+        {
+          "id": 580,
+          "label": "Pronta Entrega",
+          "link": "/sel_historico_situacao_pedido_pronta_entrega.php"
+        },
+        {
+          "id": 581,
+          "label": "Status Liberação",
+          "link": "/fil_visualiza_status_pedido.php"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 572,
+          "label": "Análise Rede",
+          "link": "/fil_analise_rede.php"
+        },
+        {
+          "id": 573,
+          "label": "Histórico Cliente",
+          "link": "/fil_historico_cliente.php"
+        },
+        {
+          "id": 574,
+          "label": "Pedido com Justificativa",
+          "link": "/fil_justificativa_pedido.php"
+        },
+        {
+          "id": 575,
+          "label": "Pedidos Cancelado por Limite",
+          "link": "/fil_analise_cancelamento_pedido.php"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "label": "Análise Rede",
+      "link": "/fil_analise_rede.php"
+    },
+    {
+      "id": 574,
+      "label": "Histórico Cliente",
+      "link": "/fil_historico_cliente.php"
+    },
+    {
+      "id": 575,
+      "label": "Pedido com Justificativa",
+      "link": "/fil_justificativa_pedido.php"
+    },
+    {
+      "id": 576,
+      "label": "Pedidos Cancelado por Limite",
+      "link": "/fil_analise_cancelamento_pedido.php"
+    },
+    {
+      "id": 577,
+      "label": "Cliente Pendente",
+      "link": "/sel_cliente_novo.php"
+    },
+    {
+      "id": 578,
+      "label": "Pedido Cadastro",
+      "link": "/sel_historico_situacao_pedido_cadastro.php"
+    },
+    {
+      "id": 579,
+      "label": "Pedido Faturamento",
+      "link": "/sel_historico_situacao_pedido_faturamento.php"
+    },
+    {
+      "id": 580,
+      "label": "Pedido Financeiro",
+      "link": "/sel_historico_situacao_pedido_financeiro.php"
+    },
+    {
+      "id": 581,
+      "label": "Pronta Entrega",
+      "link": "/sel_historico_situacao_pedido_pronta_entrega.php"
+    },
+    {
+      "id": 582,
+      "label": "Status Liberação",
+      "link": "/fil_visualiza_status_pedido.php"
+    },
+    {
+      "id": 583,
+      "label": "\u003eBroker",
+      "link": "",
+      "subitems": [
+        {
+          "id": 583,
+          "label": "Geração",
+          "link": "/fil_broker_pagamento.php"
+        },
+        {
+          "id": 584,
+          "label": "Pagamentos Efetuados",
+          "link": "/sel_pagamento_broker.php"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "label": "Geração",
+      "link": "/fil_broker_pagamento.php"
+    },
+    {
+      "id": 585,
+      "label": "Pagamentos Efetuados",
+      "link": "/sel_pagamento_broker.php"
+    },
+    {
+      "id": 586,
+      "label": "\u003eCadastro Geral",
+      "link": "",
+      "subitems": [
+        {
+          "id": 586,
+          "label": "Agência",
+          "link": "/sel_agencia.php"
+        },
+        {
+          "id": 587,
+          "label": "Alínea",
+          "link": "/sel_alinea.php"
+        },
+        {
+          "id": 588,
+          "label": "Banco",
+          "link": "/sel_banco.php"
+        },
+        {
+          "id": 589,
+          "label": "Carteira",
+          "link": "/sel_carteira.php"
+        },
+        {
+          "id": 590,
+          "label": "Conta Empresa Grupo",
+          "link": "/sel_conta_empresa_grupo.php"
+        },
+        {
+          "id": 591,
+          "label": "Motivo Pagamento Funcionário",
+          "link": "/sel_motivo_funcionario_pagamento.php"
+        },
+        {
+          "id": 592,
+          "label": "Portador",
+          "link": "/sel_portador.php"
+        },
+        {
+          "id": 593,
+          "label": "Tipo de Desconto Rede",
+          "link": "/sel_tipo_desconto_rede.php"
+        },
+        {
+          "id": 594,
+          "label": "Tipo de Ocorrência de Cobrança",
+          "link": "/sel_tipo_ocorrencia_cobranca.php"
+        },
+        {
+          "id": 595,
+          "label": "Zeramento de ECF",
+          "link": "/sel_ecf_zeramento.php"
+        }
+      ]
+    },
+    {
+      "id": 587,
+      "label": "Agência",
+      "link": "/sel_agencia.php"
+    },
+    {
+      "id": 588,
+      "label": "Alínea",
+      "link": "/sel_alinea.php"
+    },
+    {
+      "id": 589,
+      "label": "Banco",
+      "link": "/sel_banco.php"
+    },
+    {
+      "id": 590,
+      "label": "Carteira",
+      "link": "/sel_carteira.php"
+    },
+    {
+      "id": 591,
+      "label": "Conta Empresa Grupo",
+      "link": "/sel_conta_empresa_grupo.php"
+    },
+    {
+      "id": 592,
+      "label": "Motivo Pagamento Funcionário",
+      "link": "/sel_motivo_funcionario_pagamento.php"
+    },
+    {
+      "id": 593,
+      "label": "Portador",
+      "link": "/sel_portador.php"
+    },
+    {
+      "id": 594,
+      "label": "Tipo de Desconto Rede",
+      "link": "/sel_tipo_desconto_rede.php"
+    },
+    {
+      "id": 595,
+      "label": "Tipo de Ocorrência de Cobrança",
+      "link": "/sel_tipo_ocorrencia_cobranca.php"
+    },
+    {
+      "id": 596,
+      "label": "Zeramento de ECF",
+      "link": "/sel_ecf_zeramento.php"
+    },
+    {
+      "id": 597,
+      "label": "\u003eCaixa",
+      "link": "",
+      "subitems": [
+        {
+          "id": 597,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 597,
+              "label": "Despesas Detalhado",
+              "link": "/fil_caixa_detalhado.php"
+            },
+            {
+              "id": 598,
+              "label": "Abertura Lote",
+              "link": "/fil_abertura_lote.php"
+            },
+            {
+              "id": 599,
+              "label": "Caixa Centro de Custos",
+              "link": "/fil_caixa_centro_custo.php"
+            },
+            {
+              "id": 600,
+              "label": "Caixa Simplificado",
+              "link": "/fil_caixa_simplificado.php"
+            },
+            {
+              "id": 601,
+              "label": "Caixa Veículo Detalhado",
+              "link": "/fil_caixa_veiculo_detalhado.php"
+            },
+            {
+              "id": 602,
+              "label": "Caixa Veículo Kilometragem",
+              "link": "/fil_caixa_veiculo_kilometragem.php"
+            },
+            {
+              "id": 603,
+              "label": "Fechamento Ecofrotas",
+              "link": "/fil_fechamento_ecofrotas.php"
+            },
+            {
+              "id": 604,
+              "label": "Histórico Caixa Limite",
+              "link": "/fil_historico_caixa_limite.php"
+            },
+            {
+              "id": 605,
+              "label": "Rateio de Funcionário",
+              "link": "/exe_rateio_funcionario.php"
+            },
+            {
+              "id": 606,
+              "label": "Verba Funcionário",
+              "link": "/fil_verba_funcionario_detalhada.php"
+            }
+          ]
+        },
+        {
+          "id": 598,
+          "label": "Despesas Detalhado",
+          "link": "/fil_caixa_detalhado.php"
+        },
+        {
+          "id": 599,
+          "label": "Abertura Lote",
+          "link": "/fil_abertura_lote.php"
+        },
+        {
+          "id": 600,
+          "label": "Caixa Centro de Custos",
+          "link": "/fil_caixa_centro_custo.php"
+        },
+        {
+          "id": 601,
+          "label": "Caixa Simplificado",
+          "link": "/fil_caixa_simplificado.php"
+        },
+        {
+          "id": 602,
+          "label": "Caixa Veículo Detalhado",
+          "link": "/fil_caixa_veiculo_detalhado.php"
+        },
+        {
+          "id": 603,
+          "label": "Caixa Veículo Kilometragem",
+          "link": "/fil_caixa_veiculo_kilometragem.php"
+        },
+        {
+          "id": 604,
+          "label": "Fechamento Ecofrotas",
+          "link": "/fil_fechamento_ecofrotas.php"
+        },
+        {
+          "id": 605,
+          "label": "Histórico Caixa Limite",
+          "link": "/fil_historico_caixa_limite.php"
+        },
+        {
+          "id": 606,
+          "label": "Rateio de Funcionário",
+          "link": "/exe_rateio_funcionario.php"
+        },
+        {
+          "id": 607,
+          "label": "Verba Funcionário",
+          "link": "/fil_verba_funcionario_detalhada.php"
+        },
+        {
+          "id": 608,
+          "label": "Despesa",
+          "link": "/sel_movimento_despesa.php"
+        },
+        {
+          "id": 609,
+          "label": "Abre Lote Caixa",
+          "link": "/man_remove_auditoria_lote_caixa.php"
+        },
+        {
+          "id": 610,
+          "label": "Caixa",
+          "link": "/sel_caixa.php"
+        },
+        {
+          "id": 611,
+          "label": "Histórico de Caixa",
+          "link": "/sel_historico_caixa.php"
+        },
+        {
+          "id": 612,
+          "label": "Histórico de Contabilidade",
+          "link": "/sel_historico_contabilidade.php"
+        },
+        {
+          "id": 613,
+          "label": "Impostos",
+          "link": "/sel_imposto_contabil.php"
+        },
+        {
+          "id": 614,
+          "label": "Lote Caixa",
+          "link": "/sel_lote_caixa.php"
+        },
+        {
+          "id": 615,
+          "label": "Lote Conta/Pagamentos",
+          "link": "/sel_lote_conta.php"
+        },
+        {
+          "id": 616,
+          "label": "Pgto Representante",
+          "link": "/fil_pagamento_representante.php"
+        },
+        {
+          "id": 617,
+          "label": "Plano de Conta",
+          "link": "/sel_plano_conta.php"
+        },
+        {
+          "id": 618,
+          "label": "Serviço de Consumo",
+          "link": "/sel_servico_consumo.php"
+        },
+        {
+          "id": 619,
+          "label": "Valida já alocados",
+          "link": "/exe_valida_custo_alocado.php"
+        },
+        {
+          "id": 620,
+          "label": "Valida Verba",
+          "link": "/exe_valida_participacao.php"
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 598,
+          "label": "Despesas Detalhado",
+          "link": "/fil_caixa_detalhado.php"
+        },
+        {
+          "id": 599,
+          "label": "Abertura Lote",
+          "link": "/fil_abertura_lote.php"
+        },
+        {
+          "id": 600,
+          "label": "Caixa Centro de Custos",
+          "link": "/fil_caixa_centro_custo.php"
+        },
+        {
+          "id": 601,
+          "label": "Caixa Simplificado",
+          "link": "/fil_caixa_simplificado.php"
+        },
+        {
+          "id": 602,
+          "label": "Caixa Veículo Detalhado",
+          "link": "/fil_caixa_veiculo_detalhado.php"
+        },
+        {
+          "id": 603,
+          "label": "Caixa Veículo Kilometragem",
+          "link": "/fil_caixa_veiculo_kilometragem.php"
+        },
+        {
+          "id": 604,
+          "label": "Fechamento Ecofrotas",
+          "link": "/fil_fechamento_ecofrotas.php"
+        },
+        {
+          "id": 605,
+          "label": "Histórico Caixa Limite",
+          "link": "/fil_historico_caixa_limite.php"
+        },
+        {
+          "id": 606,
+          "label": "Rateio de Funcionário",
+          "link": "/exe_rateio_funcionario.php"
+        },
+        {
+          "id": 607,
+          "label": "Verba Funcionário",
+          "link": "/fil_verba_funcionario_detalhada.php"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "label": "Despesas Detalhado",
+      "link": "/fil_caixa_detalhado.php"
+    },
+    {
+      "id": 600,
+      "label": "Abertura Lote",
+      "link": "/fil_abertura_lote.php"
+    },
+    {
+      "id": 601,
+      "label": "Caixa Centro de Custos",
+      "link": "/fil_caixa_centro_custo.php"
+    },
+    {
+      "id": 602,
+      "label": "Caixa Simplificado",
+      "link": "/fil_caixa_simplificado.php"
+    },
+    {
+      "id": 603,
+      "label": "Caixa Veículo Detalhado",
+      "link": "/fil_caixa_veiculo_detalhado.php"
+    },
+    {
+      "id": 604,
+      "label": "Caixa Veículo Kilometragem",
+      "link": "/fil_caixa_veiculo_kilometragem.php"
+    },
+    {
+      "id": 605,
+      "label": "Fechamento Ecofrotas",
+      "link": "/fil_fechamento_ecofrotas.php"
+    },
+    {
+      "id": 606,
+      "label": "Histórico Caixa Limite",
+      "link": "/fil_historico_caixa_limite.php"
+    },
+    {
+      "id": 607,
+      "label": "Rateio de Funcionário",
+      "link": "/exe_rateio_funcionario.php"
+    },
+    {
+      "id": 608,
+      "label": "Verba Funcionário",
+      "link": "/fil_verba_funcionario_detalhada.php"
+    },
+    {
+      "id": 609,
+      "label": "Despesa",
+      "link": "/sel_movimento_despesa.php"
+    },
+    {
+      "id": 610,
+      "label": "Abre Lote Caixa",
+      "link": "/man_remove_auditoria_lote_caixa.php"
+    },
+    {
+      "id": 611,
+      "label": "Caixa",
+      "link": "/sel_caixa.php"
+    },
+    {
+      "id": 612,
+      "label": "Histórico de Caixa",
+      "link": "/sel_historico_caixa.php"
+    },
+    {
+      "id": 613,
+      "label": "Histórico de Contabilidade",
+      "link": "/sel_historico_contabilidade.php"
+    },
+    {
+      "id": 614,
+      "label": "Impostos",
+      "link": "/sel_imposto_contabil.php"
+    },
+    {
+      "id": 615,
+      "label": "Lote Caixa",
+      "link": "/sel_lote_caixa.php"
+    },
+    {
+      "id": 616,
+      "label": "Lote Conta/Pagamentos",
+      "link": "/sel_lote_conta.php"
+    },
+    {
+      "id": 617,
+      "label": "Pgto Representante",
+      "link": "/fil_pagamento_representante.php"
+    },
+    {
+      "id": 618,
+      "label": "Plano de Conta",
+      "link": "/sel_plano_conta.php"
+    },
+    {
+      "id": 619,
+      "label": "Serviço de Consumo",
+      "link": "/sel_servico_consumo.php"
+    },
+    {
+      "id": 620,
+      "label": "Valida já alocados",
+      "link": "/exe_valida_custo_alocado.php"
+    },
+    {
+      "id": 621,
+      "label": "Valida Verba",
+      "link": "/exe_valida_participacao.php"
+    },
+    {
+      "id": 622,
+      "label": "\u003eCampanha Conta Corrente",
+      "link": "",
+      "subitems": [
+        {
+          "id": 622,
+          "label": "Declaração",
+          "link": "/fil_declaracao.php"
+        },
+        {
+          "id": 623,
+          "label": "Email Dolarniz",
+          "link": "/exe_envia_email_premio_disponivel.php"
+        },
+        {
+          "id": 624,
+          "label": "Exportar Web Prêmios",
+          "link": "/exe_exportacao_pontos.php"
+        },
+        {
+          "id": 625,
+          "label": "Extrato",
+          "link": "/fil_extrato_vendedor_campanha.php"
+        },
+        {
+          "id": 626,
+          "label": "Produtos",
+          "link": "/sel_produto_campanha.php"
+        },
+        {
+          "id": 627,
+          "label": "Saldo Campanha",
+          "link": "/fil_saldo_atual_funcionario.php"
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "label": "Declaração",
+      "link": "/fil_declaracao.php"
+    },
+    {
+      "id": 624,
+      "label": "Email Dolarniz",
+      "link": "/exe_envia_email_premio_disponivel.php"
+    },
+    {
+      "id": 625,
+      "label": "Exportar Web Prêmios",
+      "link": "/exe_exportacao_pontos.php"
+    },
+    {
+      "id": 626,
+      "label": "Extrato",
+      "link": "/fil_extrato_vendedor_campanha.php"
+    },
+    {
+      "id": 627,
+      "label": "Produtos",
+      "link": "/sel_produto_campanha.php"
+    },
+    {
+      "id": 628,
+      "label": "Saldo Campanha",
+      "link": "/fil_saldo_atual_funcionario.php"
+    },
+    {
+      "id": 629,
+      "label": "\u003eCheque",
+      "link": "",
+      "subitems": [
+        {
+          "id": 629,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 629,
+              "label": "Cheque Caixa",
+              "link": "/fil_cheque_caixa.php"
+            },
+            {
+              "id": 630,
+              "label": "Cheque por Data",
+              "link": "/fil_lote_cheque_recebido.php"
+            },
+            {
+              "id": 631,
+              "label": "Cheque por Lote",
+              "link": "/fil_cheque.php"
+            },
+            {
+              "id": 632,
+              "label": "Cheque Sem Lote",
+              "link": "/fil_cheque_recebido_sem_lote.php"
+            },
+            {
+              "id": 633,
+              "label": "Inconsistência",
+              "link": "/fil_cheque_recebido_inconsistencia.php"
+            }
+          ]
+        },
+        {
+          "id": 630,
+          "label": "Cheque Caixa",
+          "link": "/fil_cheque_caixa.php"
+        },
+        {
+          "id": 631,
+          "label": "Cheque por Data",
+          "link": "/fil_lote_cheque_recebido.php"
+        },
+        {
+          "id": 632,
+          "label": "Cheque por Lote",
+          "link": "/fil_cheque.php"
+        },
+        {
+          "id": 633,
+          "label": "Cheque Sem Lote",
+          "link": "/fil_cheque_recebido_sem_lote.php"
+        },
+        {
+          "id": 634,
+          "label": "Inconsistência",
+          "link": "/fil_cheque_recebido_inconsistencia.php"
+        },
+        {
+          "id": 635,
+          "label": "Baixa Título - Cheque",
+          "link": "/fil_cheque_recebido_titulo.php"
+        },
+        {
+          "id": 636,
+          "label": "Cheque Detalhado",
+          "link": "/fil_cheque_recebido_detalhado.php"
+        },
+        {
+          "id": 637,
+          "label": "Cheque Devolvido",
+          "link": "/man_cheque_devolvido.php"
+        },
+        {
+          "id": 638,
+          "label": "Cheque Emitido",
+          "link": "/sel_cheque_emitido.php"
+        },
+        {
+          "id": 639,
+          "label": "Cheque Emitido Autorização",
+          "link": "/exe_autorizacao_cheque_emitido.php"
+        },
+        {
+          "id": 640,
+          "label": "Cheque Lote",
+          "link": "/fil_cheque_lote.php"
+        },
+        {
+          "id": 641,
+          "label": "Cheque Recebido",
+          "link": "/sel_cheque_recebido.php"
+        },
+        {
+          "id": 642,
+          "label": "Cheque Recebido Nota Fiscal",
+          "link": "/man_cheque_recebido_nota_fiscal.php"
+        },
+        {
+          "id": 643,
+          "label": "Cheque Recebido Pessoa",
+          "link": "/man_cheque_recebido_pessoa.php"
+        },
+        {
+          "id": 644,
+          "label": "Impressão Cheque",
+          "link": "/fil_impressao_cheque.php"
+        },
+        {
+          "id": 645,
+          "label": "Lote Cheque",
+          "link": "/sel_lote_cheque.php"
+        }
+      ]
+    },
+    {
+      "id": 630,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 630,
+          "label": "Cheque Caixa",
+          "link": "/fil_cheque_caixa.php"
+        },
+        {
+          "id": 631,
+          "label": "Cheque por Data",
+          "link": "/fil_lote_cheque_recebido.php"
+        },
+        {
+          "id": 632,
+          "label": "Cheque por Lote",
+          "link": "/fil_cheque.php"
+        },
+        {
+          "id": 633,
+          "label": "Cheque Sem Lote",
+          "link": "/fil_cheque_recebido_sem_lote.php"
+        },
+        {
+          "id": 634,
+          "label": "Inconsistência",
+          "link": "/fil_cheque_recebido_inconsistencia.php"
+        }
+      ]
+    },
+    {
+      "id": 631,
+      "label": "Cheque Caixa",
+      "link": "/fil_cheque_caixa.php"
+    },
+    {
+      "id": 632,
+      "label": "Cheque por Data",
+      "link": "/fil_lote_cheque_recebido.php"
+    },
+    {
+      "id": 633,
+      "label": "Cheque por Lote",
+      "link": "/fil_cheque.php"
+    },
+    {
+      "id": 634,
+      "label": "Cheque Sem Lote",
+      "link": "/fil_cheque_recebido_sem_lote.php"
+    },
+    {
+      "id": 635,
+      "label": "Inconsistência",
+      "link": "/fil_cheque_recebido_inconsistencia.php"
+    },
+    {
+      "id": 636,
+      "label": "Baixa Título - Cheque",
+      "link": "/fil_cheque_recebido_titulo.php"
+    },
+    {
+      "id": 637,
+      "label": "Cheque Detalhado",
+      "link": "/fil_cheque_recebido_detalhado.php"
+    },
+    {
+      "id": 638,
+      "label": "Cheque Devolvido",
+      "link": "/man_cheque_devolvido.php"
+    },
+    {
+      "id": 639,
+      "label": "Cheque Emitido",
+      "link": "/sel_cheque_emitido.php"
+    },
+    {
+      "id": 640,
+      "label": "Cheque Emitido Autorização",
+      "link": "/exe_autorizacao_cheque_emitido.php"
+    },
+    {
+      "id": 641,
+      "label": "Cheque Lote",
+      "link": "/fil_cheque_lote.php"
+    },
+    {
+      "id": 642,
+      "label": "Cheque Recebido",
+      "link": "/sel_cheque_recebido.php"
+    },
+    {
+      "id": 643,
+      "label": "Cheque Recebido Nota Fiscal",
+      "link": "/man_cheque_recebido_nota_fiscal.php"
+    },
+    {
+      "id": 644,
+      "label": "Cheque Recebido Pessoa",
+      "link": "/man_cheque_recebido_pessoa.php"
+    },
+    {
+      "id": 645,
+      "label": "Impressão Cheque",
+      "link": "/fil_impressao_cheque.php"
+    },
+    {
+      "id": 646,
+      "label": "Lote Cheque",
+      "link": "/sel_lote_cheque.php"
+    },
+    {
+      "id": 647,
+      "label": "\u003eCobrança",
+      "link": "",
+      "subitems": [
+        {
+          "id": 647,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 647,
+              "label": "Alteração Limite",
+              "link": "/fil_cadastro_limite_alterado.php"
+            },
+            {
+              "id": 648,
+              "label": "Análise Inadimplência",
+              "link": "/fil_analise_inadimplente.php"
+            },
+            {
+              "id": 649,
+              "label": "Clientes Inadimplentes",
+              "link": "/fil_cliente_inadimplente.php"
+            },
+            {
+              "id": 650,
+              "label": "Ligações Inadimplentes",
+              "link": "/fil_ligacao_inadimplente.php"
+            },
+            {
+              "id": 651,
+              "label": "Ressarcimento",
+              "link": "/fil_ressarcimento_analise.php"
+            }
+          ]
+        },
+        {
+          "id": 648,
+          "label": "Alteração Limite",
+          "link": "/fil_cadastro_limite_alterado.php"
+        },
+        {
+          "id": 649,
+          "label": "Análise Inadimplência",
+          "link": "/fil_analise_inadimplente.php"
+        },
+        {
+          "id": 650,
+          "label": "Clientes Inadimplentes",
+          "link": "/fil_cliente_inadimplente.php"
+        },
+        {
+          "id": 651,
+          "label": "Ligações Inadimplentes",
+          "link": "/fil_ligacao_inadimplente.php"
+        },
+        {
+          "id": 652,
+          "label": "Ressarcimento",
+          "link": "/fil_ressarcimento_analise.php"
+        },
+        {
+          "id": 653,
+          "label": "Atualizar Ligações",
+          "link": "/fil_insere_ligacao_cobranca.php"
+        },
+        {
+          "id": 654,
+          "label": "Inadimplentes",
+          "link": "/fil_inadimplente.php"
+        },
+        {
+          "id": 655,
+          "label": "Ligação Cliente",
+          "link": "/sel_titulo_observacao.php"
+        },
+        {
+          "id": 656,
+          "label": "Ligações Diárias",
+          "link": "/sel_inadimplente_analise.php"
+        },
+        {
+          "id": 657,
+          "label": "Retornos Anuências",
+          "link": "/sel_anuencia_analise.php"
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 648,
+          "label": "Alteração Limite",
+          "link": "/fil_cadastro_limite_alterado.php"
+        },
+        {
+          "id": 649,
+          "label": "Análise Inadimplência",
+          "link": "/fil_analise_inadimplente.php"
+        },
+        {
+          "id": 650,
+          "label": "Clientes Inadimplentes",
+          "link": "/fil_cliente_inadimplente.php"
+        },
+        {
+          "id": 651,
+          "label": "Ligações Inadimplentes",
+          "link": "/fil_ligacao_inadimplente.php"
+        },
+        {
+          "id": 652,
+          "label": "Ressarcimento",
+          "link": "/fil_ressarcimento_analise.php"
+        }
+      ]
+    },
+    {
+      "id": 649,
+      "label": "Alteração Limite",
+      "link": "/fil_cadastro_limite_alterado.php"
+    },
+    {
+      "id": 650,
+      "label": "Análise Inadimplência",
+      "link": "/fil_analise_inadimplente.php"
+    },
+    {
+      "id": 651,
+      "label": "Clientes Inadimplentes",
+      "link": "/fil_cliente_inadimplente.php"
+    },
+    {
+      "id": 652,
+      "label": "Ligações Inadimplentes",
+      "link": "/fil_ligacao_inadimplente.php"
+    },
+    {
+      "id": 653,
+      "label": "Ressarcimento",
+      "link": "/fil_ressarcimento_analise.php"
+    },
+    {
+      "id": 654,
+      "label": "Atualizar Ligações",
+      "link": "/fil_insere_ligacao_cobranca.php"
+    },
+    {
+      "id": 655,
+      "label": "Inadimplentes",
+      "link": "/fil_inadimplente.php"
+    },
+    {
+      "id": 656,
+      "label": "Ligação Cliente",
+      "link": "/sel_titulo_observacao.php"
+    },
+    {
+      "id": 657,
+      "label": "Ligações Diárias",
+      "link": "/sel_inadimplente_analise.php"
+    },
+    {
+      "id": 658,
+      "label": "Retornos Anuências",
+      "link": "/sel_anuencia_analise.php"
+    },
+    {
+      "id": 659,
+      "label": "\u003eConciliação",
+      "link": "",
+      "subitems": [
+        {
+          "id": 659,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 659,
+              "label": "Relatório Conciliação",
+              "link": "/fil_conciliacao_analise.php"
+            }
+          ]
+        },
+        {
+          "id": 660,
+          "label": "Relatório Conciliação",
+          "link": "/fil_conciliacao_analise.php"
+        },
+        {
+          "id": 661,
+          "label": "Categorias",
+          "link": "/sel_categoria_conciliacao.php"
+        },
+        {
+          "id": 662,
+          "label": "Conciliação Bancária",
+          "link": "/sel_conta_conciliacao.php"
+        },
+        {
+          "id": 663,
+          "label": "Conferência",
+          "link": "/fil_conferencia_extrato_bancario.php"
+        },
+        {
+          "id": 664,
+          "label": "Importação de Conciliação",
+          "link": "/exe_conta_conciliacao.php"
+        },
+        {
+          "id": 665,
+          "label": "",
+          "link": "/man_conta_conciliacao_conferencia.php"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 660,
+          "label": "Relatório Conciliação",
+          "link": "/fil_conciliacao_analise.php"
+        }
+      ]
+    },
+    {
+      "id": 661,
+      "label": "Relatório Conciliação",
+      "link": "/fil_conciliacao_analise.php"
+    },
+    {
+      "id": 662,
+      "label": "Categorias",
+      "link": "/sel_categoria_conciliacao.php"
+    },
+    {
+      "id": 663,
+      "label": "Conciliação Bancária",
+      "link": "/sel_conta_conciliacao.php"
+    },
+    {
+      "id": 664,
+      "label": "Conferência",
+      "link": "/fil_conferencia_extrato_bancario.php"
+    },
+    {
+      "id": 665,
+      "label": "Importação de Conciliação",
+      "link": "/exe_conta_conciliacao.php"
+    },
+    {
+      "id": 666,
+      "label": "",
+      "link": "/man_conta_conciliacao_conferencia.php"
+    },
+    {
+      "id": 667,
+      "label": "\u003eCotação",
+      "link": "",
+      "subitems": [
+        {
+          "id": 667,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 667,
+              "label": "Cotações",
+              "link": "/fil_cotacao.php"
+            }
+          ]
+        },
+        {
+          "id": 668,
+          "label": "Cotações",
+          "link": "/fil_cotacao.php"
+        },
+        {
+          "id": 669,
+          "label": "Proposta de Orçamento",
+          "link": "/sel_proposta_orcamento.php"
+        }
+      ]
+    },
+    {
+      "id": 668,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 668,
+          "label": "Cotações",
+          "link": "/fil_cotacao.php"
+        }
+      ]
+    },
+    {
+      "id": 669,
+      "label": "Cotações",
+      "link": "/fil_cotacao.php"
+    },
+    {
+      "id": 670,
+      "label": "Proposta de Orçamento",
+      "link": "/sel_proposta_orcamento.php"
+    },
+    {
+      "id": 671,
+      "label": "\u003eDespesas Supervisor",
+      "link": "",
+      "subitems": [
+        {
+          "id": 671,
+          "label": "Validar Deslocamentos",
+          "link": "/fil_valida_veiculo_deslocamento.php"
+        },
+        {
+          "id": 672,
+          "label": "Lançamento Despesas",
+          "link": "/sel_movimento_despesa_supervisor.php"
+        },
+        {
+          "id": 673,
+          "label": "Relatório Desconto KM",
+          "link": "/fil_termo_desconto_km.php"
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "label": "Validar Deslocamentos",
+      "link": "/fil_valida_veiculo_deslocamento.php"
+    },
+    {
+      "id": 673,
+      "label": "Lançamento Despesas",
+      "link": "/sel_movimento_despesa_supervisor.php"
+    },
+    {
+      "id": 674,
+      "label": "Relatório Desconto KM",
+      "link": "/fil_termo_desconto_km.php"
+    },
+    {
+      "id": 675,
+      "label": "\u003eExportação",
+      "link": "",
+      "subitems": [
+        {
+          "id": 675,
+          "label": "Remessa Título",
+          "link": "/fil_remessa_titulo.php"
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "label": "Remessa Título",
+      "link": "/fil_remessa_titulo.php"
+    },
+    {
+      "id": 677,
+      "label": "\u003eFechamento Carga",
+      "link": "",
+      "subitems": [
+        {
+          "id": 677,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 677,
+              "label": "Acerto CDSUL",
+              "link": "/fil_analise_carga_fechada.php"
+            },
+            {
+              "id": 678,
+              "label": "Análise de Cargas",
+              "link": "/fil_analise_valores_receber.php"
+            },
+            {
+              "id": 679,
+              "label": "Cargas Atualizadas",
+              "link": "/fil_cargas_atualizadas.php"
+            },
+            {
+              "id": 680,
+              "label": "Cargas Atualizadas Filial",
+              "link": "/fil_cargas_atualizadas_filial.php"
+            },
+            {
+              "id": 681,
+              "label": "Cargas Fechadas",
+              "link": "/fil_cargas_fechadas.php"
+            },
+            {
+              "id": 682,
+              "label": "Cargas não Atualizadas",
+              "link": "/fil_carga_nao_atualizada.php"
+            },
+            {
+              "id": 683,
+              "label": "Cargas não Fechadas",
+              "link": "/fil_carga_nao_fechada.php"
+            },
+            {
+              "id": 684,
+              "label": "Divergências PE",
+              "link": "/fil_divergencia_pronta_entrega.php"
+            },
+            {
+              "id": 685,
+              "label": "Fechamento de Carga",
+              "link": "/fil_fechamento_carga.php"
+            },
+            {
+              "id": 686,
+              "label": "Transferência de NF",
+              "link": "/fil_transferencia_notas.php"
+            }
+          ]
+        },
+        {
+          "id": 678,
+          "label": "Acerto CDSUL",
+          "link": "/fil_analise_carga_fechada.php"
+        },
+        {
+          "id": 679,
+          "label": "Análise de Cargas",
+          "link": "/fil_analise_valores_receber.php"
+        },
+        {
+          "id": 680,
+          "label": "Cargas Atualizadas",
+          "link": "/fil_cargas_atualizadas.php"
+        },
+        {
+          "id": 681,
+          "label": "Cargas Atualizadas Filial",
+          "link": "/fil_cargas_atualizadas_filial.php"
+        },
+        {
+          "id": 682,
+          "label": "Cargas Fechadas",
+          "link": "/fil_cargas_fechadas.php"
+        },
+        {
+          "id": 683,
+          "label": "Cargas não Atualizadas",
+          "link": "/fil_carga_nao_atualizada.php"
+        },
+        {
+          "id": 684,
+          "label": "Cargas não Fechadas",
+          "link": "/fil_carga_nao_fechada.php"
+        },
+        {
+          "id": 685,
+          "label": "Divergências PE",
+          "link": "/fil_divergencia_pronta_entrega.php"
+        },
+        {
+          "id": 686,
+          "label": "Fechamento de Carga",
+          "link": "/fil_fechamento_carga.php"
+        },
+        {
+          "id": 687,
+          "label": "Transferência de NF",
+          "link": "/fil_transferencia_notas.php"
+        },
+        {
+          "id": 688,
+          "label": "Alteração de Carga da NF",
+          "link": "/fil_altera_carga_nota_fiscal.php"
+        },
+        {
+          "id": 689,
+          "label": "Altera Tipo de Pagamento",
+          "link": "/man_altera_tipo_pagamento.php"
+        },
+        {
+          "id": 690,
+          "label": "Altera Tipo de Pagamento Senha",
+          "link": "/man_altera_tipo_pagamento_senha.php"
+        },
+        {
+          "id": 691,
+          "label": "Cancelamento NF Pronta Entrega",
+          "link": "/exe_nf_cancelamento_pronta_entrega.php"
+        },
+        {
+          "id": 692,
+          "label": "Cancelamento NF Vasilhame",
+          "link": "/fil_nf_cancelamento_vasilhame.php"
+        },
+        {
+          "id": 693,
+          "label": "Devolução Parcial",
+          "link": "/fil_devolucao_mercadoria.php"
+        },
+        {
+          "id": 694,
+          "label": "Devolução Total com Senha",
+          "link": "/fil_duplica_nf.php"
+        },
+        {
+          "id": 695,
+          "label": "Fechamento de Carga",
+          "link": "/sel_carga_fechamento.php"
+        },
+        {
+          "id": 696,
+          "label": "Gera NF Pronta Entrega",
+          "link": "/exe_gera_nf_pronta_entrega.php"
+        },
+        {
+          "id": 697,
+          "label": "Re-Entrega NF",
+          "link": "/fil_nf_reentrega.php"
+        },
+        {
+          "id": 698,
+          "label": "Transferência de NF",
+          "link": "/man_transferencia_nota_fiscal.php"
+        },
+        {
+          "id": 699,
+          "label": "Validar Cargas",
+          "link": "/fil_valida_cargas_fechadas.php"
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 678,
+          "label": "Acerto CDSUL",
+          "link": "/fil_analise_carga_fechada.php"
+        },
+        {
+          "id": 679,
+          "label": "Análise de Cargas",
+          "link": "/fil_analise_valores_receber.php"
+        },
+        {
+          "id": 680,
+          "label": "Cargas Atualizadas",
+          "link": "/fil_cargas_atualizadas.php"
+        },
+        {
+          "id": 681,
+          "label": "Cargas Atualizadas Filial",
+          "link": "/fil_cargas_atualizadas_filial.php"
+        },
+        {
+          "id": 682,
+          "label": "Cargas Fechadas",
+          "link": "/fil_cargas_fechadas.php"
+        },
+        {
+          "id": 683,
+          "label": "Cargas não Atualizadas",
+          "link": "/fil_carga_nao_atualizada.php"
+        },
+        {
+          "id": 684,
+          "label": "Cargas não Fechadas",
+          "link": "/fil_carga_nao_fechada.php"
+        },
+        {
+          "id": 685,
+          "label": "Divergências PE",
+          "link": "/fil_divergencia_pronta_entrega.php"
+        },
+        {
+          "id": 686,
+          "label": "Fechamento de Carga",
+          "link": "/fil_fechamento_carga.php"
+        },
+        {
+          "id": 687,
+          "label": "Transferência de NF",
+          "link": "/fil_transferencia_notas.php"
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "label": "Acerto CDSUL",
+      "link": "/fil_analise_carga_fechada.php"
+    },
+    {
+      "id": 680,
+      "label": "Análise de Cargas",
+      "link": "/fil_analise_valores_receber.php"
+    },
+    {
+      "id": 681,
+      "label": "Cargas Atualizadas",
+      "link": "/fil_cargas_atualizadas.php"
+    },
+    {
+      "id": 682,
+      "label": "Cargas Atualizadas Filial",
+      "link": "/fil_cargas_atualizadas_filial.php"
+    },
+    {
+      "id": 683,
+      "label": "Cargas Fechadas",
+      "link": "/fil_cargas_fechadas.php"
+    },
+    {
+      "id": 684,
+      "label": "Cargas não Atualizadas",
+      "link": "/fil_carga_nao_atualizada.php"
+    },
+    {
+      "id": 685,
+      "label": "Cargas não Fechadas",
+      "link": "/fil_carga_nao_fechada.php"
+    },
+    {
+      "id": 686,
+      "label": "Divergências PE",
+      "link": "/fil_divergencia_pronta_entrega.php"
+    },
+    {
+      "id": 687,
+      "label": "Fechamento de Carga",
+      "link": "/fil_fechamento_carga.php"
+    },
+    {
+      "id": 688,
+      "label": "Transferência de NF",
+      "link": "/fil_transferencia_notas.php"
+    },
+    {
+      "id": 689,
+      "label": "Alteração de Carga da NF",
+      "link": "/fil_altera_carga_nota_fiscal.php"
+    },
+    {
+      "id": 690,
+      "label": "Altera Tipo de Pagamento",
+      "link": "/man_altera_tipo_pagamento.php"
+    },
+    {
+      "id": 691,
+      "label": "Altera Tipo de Pagamento Senha",
+      "link": "/man_altera_tipo_pagamento_senha.php"
+    },
+    {
+      "id": 692,
+      "label": "Cancelamento NF Pronta Entrega",
+      "link": "/exe_nf_cancelamento_pronta_entrega.php"
+    },
+    {
+      "id": 693,
+      "label": "Cancelamento NF Vasilhame",
+      "link": "/fil_nf_cancelamento_vasilhame.php"
+    },
+    {
+      "id": 694,
+      "label": "Devolução Parcial",
+      "link": "/fil_devolucao_mercadoria.php"
+    },
+    {
+      "id": 695,
+      "label": "Devolução Total com Senha",
+      "link": "/fil_duplica_nf.php"
+    },
+    {
+      "id": 696,
+      "label": "Fechamento de Carga",
+      "link": "/sel_carga_fechamento.php"
+    },
+    {
+      "id": 697,
+      "label": "Gera NF Pronta Entrega",
+      "link": "/exe_gera_nf_pronta_entrega.php"
+    },
+    {
+      "id": 698,
+      "label": "Re-Entrega NF",
+      "link": "/fil_nf_reentrega.php"
+    },
+    {
+      "id": 699,
+      "label": "Transferência de NF",
+      "link": "/man_transferencia_nota_fiscal.php"
+    },
+    {
+      "id": 700,
+      "label": "Validar Cargas",
+      "link": "/fil_valida_cargas_fechadas.php"
+    },
+    {
+      "id": 701,
+      "label": "\u003eFluxo de Caixa",
+      "link": "",
+      "subitems": [
+        {
+          "id": 701,
+          "label": "Atualiza Dados Fluxo de Caixa",
+          "link": "/exe_atualiza_dados_fluxo_caixa_dia.php"
+        },
+        {
+          "id": 702,
+          "label": "Atualiza Saldo Fluxo de Caixa",
+          "link": "/exe_atualiza_dados_fluxo_caixa_saldo.php"
+        },
+        {
+          "id": 703,
+          "label": "Fluxo de Caixa",
+          "link": "/fil_visualiza_fluxo_caixa.php"
+        },
+        {
+          "id": 704,
+          "label": "Históricos",
+          "link": "/sel_historico_fluxo_caixa.php"
+        },
+        {
+          "id": 705,
+          "label": "Lançamento",
+          "link": "/sel_movimento_fluxo_caixa.php"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "label": "Atualiza Dados Fluxo de Caixa",
+      "link": "/exe_atualiza_dados_fluxo_caixa_dia.php"
+    },
+    {
+      "id": 703,
+      "label": "Atualiza Saldo Fluxo de Caixa",
+      "link": "/exe_atualiza_dados_fluxo_caixa_saldo.php"
+    },
+    {
+      "id": 704,
+      "label": "Fluxo de Caixa",
+      "link": "/fil_visualiza_fluxo_caixa.php"
+    },
+    {
+      "id": 705,
+      "label": "Históricos",
+      "link": "/sel_historico_fluxo_caixa.php"
+    },
+    {
+      "id": 706,
+      "label": "Lançamento",
+      "link": "/sel_movimento_fluxo_caixa.php"
+    },
+    {
+      "id": 707,
+      "label": "\u003eFrete",
+      "link": "",
+      "subitems": [
+        {
+          "id": 707,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 707,
+              "label": "Ajuste de Frete",
+              "link": "/fil_ajuste_frete.php"
+            },
+            {
+              "id": 708,
+              "label": "Conferência de Frete",
+              "link": "/fil_frete_conferencia.php"
+            },
+            {
+              "id": 709,
+              "label": "Fretes da Transportadora",
+              "link": "/fil_transportadora_frete_detalhado.php"
+            },
+            {
+              "id": 710,
+              "label": "Fretes Pagos",
+              "link": "/fil_rpa.php"
+            },
+            {
+              "id": 711,
+              "label": "Pagamento de Frete",
+              "link": "/fil_pagamento_frete.php"
+            }
+          ]
+        },
+        {
+          "id": 708,
+          "label": "Ajuste de Frete",
+          "link": "/fil_ajuste_frete.php"
+        },
+        {
+          "id": 709,
+          "label": "Conferência de Frete",
+          "link": "/fil_frete_conferencia.php"
+        },
+        {
+          "id": 710,
+          "label": "Fretes da Transportadora",
+          "link": "/fil_transportadora_frete_detalhado.php"
+        },
+        {
+          "id": 711,
+          "label": "Fretes Pagos",
+          "link": "/fil_rpa.php"
+        },
+        {
+          "id": 712,
+          "label": "Pagamento de Frete",
+          "link": "/fil_pagamento_frete.php"
+        },
+        {
+          "id": 713,
+          "label": "Acordos",
+          "link": "/sel_acordo_logistico.php"
+        },
+        {
+          "id": 714,
+          "label": "Altera Contrato de Frete",
+          "link": "/man_altera_contrato_frete.php"
+        },
+        {
+          "id": 715,
+          "label": "Fretes Pagos",
+          "link": "/sel_frete_pagamento.php"
+        },
+        {
+          "id": 716,
+          "label": "Pagamento de Frete",
+          "link": "/exe_lanca_pgto_frete.php"
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 708,
+          "label": "Ajuste de Frete",
+          "link": "/fil_ajuste_frete.php"
+        },
+        {
+          "id": 709,
+          "label": "Conferência de Frete",
+          "link": "/fil_frete_conferencia.php"
+        },
+        {
+          "id": 710,
+          "label": "Fretes da Transportadora",
+          "link": "/fil_transportadora_frete_detalhado.php"
+        },
+        {
+          "id": 711,
+          "label": "Fretes Pagos",
+          "link": "/fil_rpa.php"
+        },
+        {
+          "id": 712,
+          "label": "Pagamento de Frete",
+          "link": "/fil_pagamento_frete.php"
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "label": "Ajuste de Frete",
+      "link": "/fil_ajuste_frete.php"
+    },
+    {
+      "id": 710,
+      "label": "Conferência de Frete",
+      "link": "/fil_frete_conferencia.php"
+    },
+    {
+      "id": 711,
+      "label": "Fretes da Transportadora",
+      "link": "/fil_transportadora_frete_detalhado.php"
+    },
+    {
+      "id": 712,
+      "label": "Fretes Pagos",
+      "link": "/fil_rpa.php"
+    },
+    {
+      "id": 713,
+      "label": "Pagamento de Frete",
+      "link": "/fil_pagamento_frete.php"
+    },
+    {
+      "id": 714,
+      "label": "Acordos",
+      "link": "/sel_acordo_logistico.php"
+    },
+    {
+      "id": 715,
+      "label": "Altera Contrato de Frete",
+      "link": "/man_altera_contrato_frete.php"
+    },
+    {
+      "id": 716,
+      "label": "Fretes Pagos",
+      "link": "/sel_frete_pagamento.php"
+    },
+    {
+      "id": 717,
+      "label": "Pagamento de Frete",
+      "link": "/exe_lanca_pgto_frete.php"
+    },
+    {
+      "id": 718,
+      "label": "\u003eNFSe",
+      "link": "",
+      "subitems": [
+        {
+          "id": 718,
+          "label": "CNAE",
+          "link": "/sel_cnae.php"
+        },
+        {
+          "id": 719,
+          "label": "Fundo Promoção",
+          "link": "/exe_franquia_fundo_promocao.php"
+        },
+        {
+          "id": 720,
+          "label": "Geração",
+          "link": "/exe_geracao_nfse.php"
+        },
+        {
+          "id": 721,
+          "label": "Gerar Boletos",
+          "link": "/fil_gera_boleto_trudel.php"
+        },
+        {
+          "id": 722,
+          "label": "Item Lista Serviço",
+          "link": "/sel_item_lista_servico.php"
+        },
+        {
+          "id": 723,
+          "label": "NFSe Emitidas",
+          "link": "/sel_nota_fiscal_nfse.php"
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "label": "CNAE",
+      "link": "/sel_cnae.php"
+    },
+    {
+      "id": 720,
+      "label": "Fundo Promoção",
+      "link": "/exe_franquia_fundo_promocao.php"
+    },
+    {
+      "id": 721,
+      "label": "Geração",
+      "link": "/exe_geracao_nfse.php"
+    },
+    {
+      "id": 722,
+      "label": "Gerar Boletos",
+      "link": "/fil_gera_boleto_trudel.php"
+    },
+    {
+      "id": 723,
+      "label": "Item Lista Serviço",
+      "link": "/sel_item_lista_servico.php"
+    },
+    {
+      "id": 724,
+      "label": "NFSe Emitidas",
+      "link": "/sel_nota_fiscal_nfse.php"
+    },
+    {
+      "id": 725,
+      "label": "\u003eRessarcimento",
+      "link": "",
+      "subitems": [
+        {
+          "id": 725,
+          "label": "\u003eContabilizar",
+          "link": "",
+          "subitems": [
+            {
+              "id": 725,
+              "label": "Manutenção",
+              "link": "/exe_ressarcimento_contabilidade.php"
+            },
+            {
+              "id": 726,
+              "label": "Relatório",
+              "link": "/fil_ressarcimento_contabilizado.php"
+            }
+          ]
+        },
+        {
+          "id": 726,
+          "label": "Manutenção",
+          "link": "/exe_ressarcimento_contabilidade.php"
+        },
+        {
+          "id": 727,
+          "label": "Relatório",
+          "link": "/fil_ressarcimento_contabilizado.php"
+        },
+        {
+          "id": 728,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 728,
+              "label": "Acordo Comercial",
+              "link": "/fil_acordo_comercial_fornecedor.php"
+            },
+            {
+              "id": 729,
+              "label": "Análise Combos / EDI",
+              "link": "/fil_analise_combos_procter.php"
+            },
+            {
+              "id": 730,
+              "label": "Conta Corrente",
+              "link": "/fil_ressarcimento_analise_conta.php"
+            },
+            {
+              "id": 731,
+              "label": "Diário Auxiliar",
+              "link": "/fil_diario_auxiliar.php"
+            }
+          ]
+        },
+        {
+          "id": 729,
+          "label": "Acordo Comercial",
+          "link": "/fil_acordo_comercial_fornecedor.php"
+        },
+        {
+          "id": 730,
+          "label": "Análise Combos / EDI",
+          "link": "/fil_analise_combos_procter.php"
+        },
+        {
+          "id": 731,
+          "label": "Conta Corrente",
+          "link": "/fil_ressarcimento_analise_conta.php"
+        },
+        {
+          "id": 732,
+          "label": "Diário Auxiliar",
+          "link": "/fil_diario_auxiliar.php"
+        },
+        {
+          "id": 733,
+          "label": "Conta Corrente",
+          "link": "/exe_ressarcimento_conta_corrente.php"
+        },
+        {
+          "id": 734,
+          "label": "Diário Auxiliar",
+          "link": "/exe_diario_conta_corrente.php"
+        },
+        {
+          "id": 735,
+          "label": "Fornecedor",
+          "link": "/sel_fornecedor_ressarcimento.php"
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "label": "\u003eContabilizar",
+      "link": "",
+      "subitems": [
+        {
+          "id": 726,
+          "label": "Manutenção",
+          "link": "/exe_ressarcimento_contabilidade.php"
+        },
+        {
+          "id": 727,
+          "label": "Relatório",
+          "link": "/fil_ressarcimento_contabilizado.php"
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "label": "Manutenção",
+      "link": "/exe_ressarcimento_contabilidade.php"
+    },
+    {
+      "id": 728,
+      "label": "Relatório",
+      "link": "/fil_ressarcimento_contabilizado.php"
+    },
+    {
+      "id": 729,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 729,
+          "label": "Acordo Comercial",
+          "link": "/fil_acordo_comercial_fornecedor.php"
+        },
+        {
+          "id": 730,
+          "label": "Análise Combos / EDI",
+          "link": "/fil_analise_combos_procter.php"
+        },
+        {
+          "id": 731,
+          "label": "Conta Corrente",
+          "link": "/fil_ressarcimento_analise_conta.php"
+        },
+        {
+          "id": 732,
+          "label": "Diário Auxiliar",
+          "link": "/fil_diario_auxiliar.php"
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "label": "Acordo Comercial",
+      "link": "/fil_acordo_comercial_fornecedor.php"
+    },
+    {
+      "id": 731,
+      "label": "Análise Combos / EDI",
+      "link": "/fil_analise_combos_procter.php"
+    },
+    {
+      "id": 732,
+      "label": "Conta Corrente",
+      "link": "/fil_ressarcimento_analise_conta.php"
+    },
+    {
+      "id": 733,
+      "label": "Diário Auxiliar",
+      "link": "/fil_diario_auxiliar.php"
+    },
+    {
+      "id": 734,
+      "label": "Conta Corrente",
+      "link": "/exe_ressarcimento_conta_corrente.php"
+    },
+    {
+      "id": 735,
+      "label": "Diário Auxiliar",
+      "link": "/exe_diario_conta_corrente.php"
+    },
+    {
+      "id": 736,
+      "label": "Fornecedor",
+      "link": "/sel_fornecedor_ressarcimento.php"
+    },
+    {
+      "id": 737,
+      "label": "\u003eTermos",
+      "link": "",
+      "subitems": [
+        {
+          "id": 737,
+          "label": "Geração",
+          "link": "/exe_gera_termo_situacao_financeira.php"
+        },
+        {
+          "id": 738,
+          "label": "Impressão",
+          "link": "/exe_imprime_termo_situacao_financeira.php"
+        },
+        {
+          "id": 739,
+          "label": "Retorno",
+          "link": "/fil_valida_termo_situacao_financeira.php"
+        },
+        {
+          "id": 740,
+          "label": "Termos",
+          "link": "/sel_termo_situacao_financeira.php"
+        }
+      ]
+    },
+    {
+      "id": 738,
+      "label": "Geração",
+      "link": "/exe_gera_termo_situacao_financeira.php"
+    },
+    {
+      "id": 739,
+      "label": "Impressão",
+      "link": "/exe_imprime_termo_situacao_financeira.php"
+    },
+    {
+      "id": 740,
+      "label": "Retorno",
+      "link": "/fil_valida_termo_situacao_financeira.php"
+    },
+    {
+      "id": 741,
+      "label": "Termos",
+      "link": "/sel_termo_situacao_financeira.php"
+    },
+    {
+      "id": 742,
+      "label": "\u003eTítulo a Pagar",
+      "link": "",
+      "subitems": [
+        {
+          "id": 742,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 742,
+              "label": "\u003eBraveo",
+              "link": "",
+              "subitems": [
+                {
+                  "id": 742,
+                  "label": "Autorizar PGTO",
+                  "link": "/fil_titulos_enviado_banco.php"
+                },
+                {
+                  "id": 743,
+                  "label": "Conciliação",
+                  "link": "/fil_conciliacao_braveo.php"
+                }
+              ]
+            },
+            {
+              "id": 743,
+              "label": "Autorizar PGTO",
+              "link": "/fil_titulos_enviado_banco.php"
+            },
+            {
+              "id": 744,
+              "label": "Conciliação",
+              "link": "/fil_conciliacao_braveo.php"
+            },
+            {
+              "id": 745,
+              "label": "Despesas Acordos",
+              "link": "/fil_despesas_titulos_acordos.php"
+            },
+            {
+              "id": 746,
+              "label": "Despesas Doc/Ted",
+              "link": "/fil_despesas_titulos_doc_ted.php"
+            },
+            {
+              "id": 747,
+              "label": "Despesas Supervisores",
+              "link": "/fil_despesas_titulos_supervisor.php"
+            },
+            {
+              "id": 748,
+              "label": "Exportação Pagamento",
+              "link": "/fil_exportacao_pagamento.php"
+            },
+            {
+              "id": 749,
+              "label": "Fluxo de Caixa",
+              "link": "/fil_fluxo_caixa.php"
+            },
+            {
+              "id": 750,
+              "label": "Fluxo de Caixa Simplificado",
+              "link": "/fil_fluxo_caixa_simplificado.php"
+            },
+            {
+              "id": 751,
+              "label": "NF Entrada x Título Débito",
+              "link": "/fil_nf_entrada_titulo_debito.php"
+            },
+            {
+              "id": 752,
+              "label": "Título Detalhado",
+              "link": "/fil_titulo_debito_detalhado.php"
+            },
+            {
+              "id": 753,
+              "label": "Título Pago",
+              "link": "/fil_titulo_debito_pago.php"
+            }
+          ]
+        },
+        {
+          "id": 743,
+          "label": "\u003eBraveo",
+          "link": "",
+          "subitems": [
+            {
+              "id": 743,
+              "label": "Autorizar PGTO",
+              "link": "/fil_titulos_enviado_banco.php"
+            },
+            {
+              "id": 744,
+              "label": "Conciliação",
+              "link": "/fil_conciliacao_braveo.php"
+            }
+          ]
+        },
+        {
+          "id": 744,
+          "label": "Autorizar PGTO",
+          "link": "/fil_titulos_enviado_banco.php"
+        },
+        {
+          "id": 745,
+          "label": "Conciliação",
+          "link": "/fil_conciliacao_braveo.php"
+        },
+        {
+          "id": 746,
+          "label": "Despesas Acordos",
+          "link": "/fil_despesas_titulos_acordos.php"
+        },
+        {
+          "id": 747,
+          "label": "Despesas Doc/Ted",
+          "link": "/fil_despesas_titulos_doc_ted.php"
+        },
+        {
+          "id": 748,
+          "label": "Despesas Supervisores",
+          "link": "/fil_despesas_titulos_supervisor.php"
+        },
+        {
+          "id": 749,
+          "label": "Exportação Pagamento",
+          "link": "/fil_exportacao_pagamento.php"
+        },
+        {
+          "id": 750,
+          "label": "Fluxo de Caixa",
+          "link": "/fil_fluxo_caixa.php"
+        },
+        {
+          "id": 751,
+          "label": "Fluxo de Caixa Simplificado",
+          "link": "/fil_fluxo_caixa_simplificado.php"
+        },
+        {
+          "id": 752,
+          "label": "NF Entrada x Título Débito",
+          "link": "/fil_nf_entrada_titulo_debito.php"
+        },
+        {
+          "id": 753,
+          "label": "Título Detalhado",
+          "link": "/fil_titulo_debito_detalhado.php"
+        },
+        {
+          "id": 754,
+          "label": "Título Pago",
+          "link": "/fil_titulo_debito_pago.php"
+        },
+        {
+          "id": 755,
+          "label": "Pagamento de Título Débito",
+          "link": "/fil_titulo_debito_pagamento.php"
+        },
+        {
+          "id": 756,
+          "label": "Título a Pagar",
+          "link": "/sel_titulo_debito.php"
+        }
+      ]
+    },
+    {
+      "id": 743,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 743,
+          "label": "\u003eBraveo",
+          "link": "",
+          "subitems": [
+            {
+              "id": 743,
+              "label": "Autorizar PGTO",
+              "link": "/fil_titulos_enviado_banco.php"
+            },
+            {
+              "id": 744,
+              "label": "Conciliação",
+              "link": "/fil_conciliacao_braveo.php"
+            }
+          ]
+        },
+        {
+          "id": 744,
+          "label": "Autorizar PGTO",
+          "link": "/fil_titulos_enviado_banco.php"
+        },
+        {
+          "id": 745,
+          "label": "Conciliação",
+          "link": "/fil_conciliacao_braveo.php"
+        },
+        {
+          "id": 746,
+          "label": "Despesas Acordos",
+          "link": "/fil_despesas_titulos_acordos.php"
+        },
+        {
+          "id": 747,
+          "label": "Despesas Doc/Ted",
+          "link": "/fil_despesas_titulos_doc_ted.php"
+        },
+        {
+          "id": 748,
+          "label": "Despesas Supervisores",
+          "link": "/fil_despesas_titulos_supervisor.php"
+        },
+        {
+          "id": 749,
+          "label": "Exportação Pagamento",
+          "link": "/fil_exportacao_pagamento.php"
+        },
+        {
+          "id": 750,
+          "label": "Fluxo de Caixa",
+          "link": "/fil_fluxo_caixa.php"
+        },
+        {
+          "id": 751,
+          "label": "Fluxo de Caixa Simplificado",
+          "link": "/fil_fluxo_caixa_simplificado.php"
+        },
+        {
+          "id": 752,
+          "label": "NF Entrada x Título Débito",
+          "link": "/fil_nf_entrada_titulo_debito.php"
+        },
+        {
+          "id": 753,
+          "label": "Título Detalhado",
+          "link": "/fil_titulo_debito_detalhado.php"
+        },
+        {
+          "id": 754,
+          "label": "Título Pago",
+          "link": "/fil_titulo_debito_pago.php"
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "label": "\u003eBraveo",
+      "link": "",
+      "subitems": [
+        {
+          "id": 744,
+          "label": "Autorizar PGTO",
+          "link": "/fil_titulos_enviado_banco.php"
+        },
+        {
+          "id": 745,
+          "label": "Conciliação",
+          "link": "/fil_conciliacao_braveo.php"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "label": "Autorizar PGTO",
+      "link": "/fil_titulos_enviado_banco.php"
+    },
+    {
+      "id": 746,
+      "label": "Conciliação",
+      "link": "/fil_conciliacao_braveo.php"
+    },
+    {
+      "id": 747,
+      "label": "Despesas Acordos",
+      "link": "/fil_despesas_titulos_acordos.php"
+    },
+    {
+      "id": 748,
+      "label": "Despesas Doc/Ted",
+      "link": "/fil_despesas_titulos_doc_ted.php"
+    },
+    {
+      "id": 749,
+      "label": "Despesas Supervisores",
+      "link": "/fil_despesas_titulos_supervisor.php"
+    },
+    {
+      "id": 750,
+      "label": "Exportação Pagamento",
+      "link": "/fil_exportacao_pagamento.php"
+    },
+    {
+      "id": 751,
+      "label": "Fluxo de Caixa",
+      "link": "/fil_fluxo_caixa.php"
+    },
+    {
+      "id": 752,
+      "label": "Fluxo de Caixa Simplificado",
+      "link": "/fil_fluxo_caixa_simplificado.php"
+    },
+    {
+      "id": 753,
+      "label": "NF Entrada x Título Débito",
+      "link": "/fil_nf_entrada_titulo_debito.php"
+    },
+    {
+      "id": 754,
+      "label": "Título Detalhado",
+      "link": "/fil_titulo_debito_detalhado.php"
+    },
+    {
+      "id": 755,
+      "label": "Título Pago",
+      "link": "/fil_titulo_debito_pago.php"
+    },
+    {
+      "id": 756,
+      "label": "Pagamento de Título Débito",
+      "link": "/fil_titulo_debito_pagamento.php"
+    },
+    {
+      "id": 757,
+      "label": "Título a Pagar",
+      "link": "/sel_titulo_debito.php"
+    },
+    {
+      "id": 758,
+      "label": "\u003eTítulo a Receber",
+      "link": "",
+      "subitems": [
+        {
+          "id": 758,
+          "label": "\u003eBaixa",
+          "link": "",
+          "subitems": [
+            {
+              "id": 758,
+              "label": "Baixa Título",
+              "link": "/exe_baixa_titulo.php"
+            },
+            {
+              "id": 759,
+              "label": "Relatório de Baixas",
+              "link": "/fil_titulo_baixa.php"
+            }
+          ]
+        },
+        {
+          "id": 759,
+          "label": "Baixa Título",
+          "link": "/exe_baixa_titulo.php"
+        },
+        {
+          "id": 760,
+          "label": "Relatório de Baixas",
+          "link": "/fil_titulo_baixa.php"
+        },
+        {
+          "id": 761,
+          "label": "\u003eRelatórios",
+          "link": "",
+          "subitems": [
+            {
+              "id": 761,
+              "label": "Carta de Anuência",
+              "link": "/fil_carta_anuencia.php"
+            },
+            {
+              "id": 762,
+              "label": "Carta de Anuência sem Retorno",
+              "link": "/fil_carta_anuencia_sem_retorno.php"
+            },
+            {
+              "id": 763,
+              "label": "Cliente Risco",
+              "link": "/fil_cliente_risco.php"
+            },
+            {
+              "id": 764,
+              "label": "Duplicata",
+              "link": "/fil_impressao_duplicata.php"
+            },
+            {
+              "id": 765,
+              "label": "Observações Título",
+              "link": "/fil_titulo_observacao_detalhado.php"
+            },
+            {
+              "id": 766,
+              "label": "Ocorrências de Cobranças",
+              "link": "/fil_ocorrencia_cobranca.php"
+            },
+            {
+              "id": 767,
+              "label": "Título Aberto Forn.",
+              "link": "/fil_titulo_aberto_fornecedor.php"
+            },
+            {
+              "id": 768,
+              "label": "Título por Pessoa",
+              "link": "/fil_titulo_pessoa.php"
+            },
+            {
+              "id": 769,
+              "label": "Título por Portador",
+              "link": "/fil_titulo_portador.php"
+            },
+            {
+              "id": 770,
+              "label": "Títulos Aberto p/ Rede",
+              "link": "/fil_titulo_aberto_rede.php"
+            },
+            {
+              "id": 771,
+              "label": "Títulos Abertos",
+              "link": "/fil_titulo_aberto.php"
+            },
+            {
+              "id": 772,
+              "label": "Títulos à Receber por Portador",
+              "link": "/fil_titulo_credito_a_receber_portador.php"
+            },
+            {
+              "id": 773,
+              "label": "Títulos Emitidos",
+              "link": "/fil_titulo_credito_emitido.php"
+            },
+            {
+              "id": 774,
+              "label": "Títulos por Vendedor",
+              "link": "/fil_titulo_vendedor.php"
+            },
+            {
+              "id": 775,
+              "label": "Títulos Recebidos por Data",
+              "link": "/fil_titulo_recebido_data.php"
+            },
+            {
+              "id": 776,
+              "label": "Títulos Recebidos por Responsável",
+              "link": "/fil_titulo_cobranca_responsavel.php"
+            },
+            {
+              "id": 777,
+              "label": "Títulos sem Lote",
+              "link": "/fil_titulo_sem_lote.php"
+            },
+            {
+              "id": 778,
+              "label": "Venda vs Financeiro",
+              "link": "/fil_venda_financeiro.php"
+            },
+            {
+              "id": 779,
+              "label": "Vendedor Cobrança",
+              "link": "/fil_vendedor_cobranca.php"
+            }
+          ]
+        },
+        {
+          "id": 762,
+          "label": "Carta de Anuência",
+          "link": "/fil_carta_anuencia.php"
+        },
+        {
+          "id": 763,
+          "label": "Carta de Anuência sem Retorno",
+          "link": "/fil_carta_anuencia_sem_retorno.php"
+        },
+        {
+          "id": 764,
+          "label": "Cliente Risco",
+          "link": "/fil_cliente_risco.php"
+        },
+        {
+          "id": 765,
+          "label": "Duplicata",
+          "link": "/fil_impressao_duplicata.php"
+        },
+        {
+          "id": 766,
+          "label": "Observações Título",
+          "link": "/fil_titulo_observacao_detalhado.php"
+        },
+        {
+          "id": 767,
+          "label": "Ocorrências de Cobranças",
+          "link": "/fil_ocorrencia_cobranca.php"
+        },
+        {
+          "id": 768,
+          "label": "Título Aberto Forn.",
+          "link": "/fil_titulo_aberto_fornecedor.php"
+        },
+        {
+          "id": 769,
+          "label": "Título por Pessoa",
+          "link": "/fil_titulo_pessoa.php"
+        },
+        {
+          "id": 770,
+          "label": "Título por Portador",
+          "link": "/fil_titulo_portador.php"
+        },
+        {
+          "id": 771,
+          "label": "Títulos Aberto p/ Rede",
+          "link": "/fil_titulo_aberto_rede.php"
+        },
+        {
+          "id": 772,
+          "label": "Títulos Abertos",
+          "link": "/fil_titulo_aberto.php"
+        },
+        {
+          "id": 773,
+          "label": "Títulos à Receber por Portador",
+          "link": "/fil_titulo_credito_a_receber_portador.php"
+        },
+        {
+          "id": 774,
+          "label": "Títulos Emitidos",
+          "link": "/fil_titulo_credito_emitido.php"
+        },
+        {
+          "id": 775,
+          "label": "Títulos por Vendedor",
+          "link": "/fil_titulo_vendedor.php"
+        },
+        {
+          "id": 776,
+          "label": "Títulos Recebidos por Data",
+          "link": "/fil_titulo_recebido_data.php"
+        },
+        {
+          "id": 777,
+          "label": "Títulos Recebidos por Responsável",
+          "link": "/fil_titulo_cobranca_responsavel.php"
+        },
+        {
+          "id": 778,
+          "label": "Títulos sem Lote",
+          "link": "/fil_titulo_sem_lote.php"
+        },
+        {
+          "id": 779,
+          "label": "Venda vs Financeiro",
+          "link": "/fil_venda_financeiro.php"
+        },
+        {
+          "id": 780,
+          "label": "Vendedor Cobrança",
+          "link": "/fil_vendedor_cobranca.php"
+        },
+        {
+          "id": 781,
+          "label": "Alteração Portador",
+          "link": "/man_altera_portador.php"
+        },
+        {
+          "id": 782,
+          "label": "Anuência",
+          "link": "/sel_anuencia.php"
+        },
+        {
+          "id": 783,
+          "label": "Importação Pgtos",
+          "link": "/exe_importacao_pagamentos.php"
+        },
+        {
+          "id": 784,
+          "label": "Pgto DMTOP",
+          "link": "/exe_importacao_pagamentos_dmtop.php"
+        },
+        {
+          "id": 785,
+          "label": "Título a Receber",
+          "link": "/sel_titulo_credito.php"
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "label": "\u003eBaixa",
+      "link": "",
+      "subitems": [
+        {
+          "id": 759,
+          "label": "Baixa Título",
+          "link": "/exe_baixa_titulo.php"
+        },
+        {
+          "id": 760,
+          "label": "Relatório de Baixas",
+          "link": "/fil_titulo_baixa.php"
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "label": "Baixa Título",
+      "link": "/exe_baixa_titulo.php"
+    },
+    {
+      "id": 761,
+      "label": "Relatório de Baixas",
+      "link": "/fil_titulo_baixa.php"
+    },
+    {
+      "id": 762,
+      "label": "\u003eRelatórios",
+      "link": "",
+      "subitems": [
+        {
+          "id": 762,
+          "label": "Carta de Anuência",
+          "link": "/fil_carta_anuencia.php"
+        },
+        {
+          "id": 763,
+          "label": "Carta de Anuência sem Retorno",
+          "link": "/fil_carta_anuencia_sem_retorno.php"
+        },
+        {
+          "id": 764,
+          "label": "Cliente Risco",
+          "link": "/fil_cliente_risco.php"
+        },
+        {
+          "id": 765,
+          "label": "Duplicata",
+          "link": "/fil_impressao_duplicata.php"
+        },
+        {
+          "id": 766,
+          "label": "Observações Título",
+          "link": "/fil_titulo_observacao_detalhado.php"
+        },
+        {
+          "id": 767,
+          "label": "Ocorrências de Cobranças",
+          "link": "/fil_ocorrencia_cobranca.php"
+        },
+        {
+          "id": 768,
+          "label": "Título Aberto Forn.",
+          "link": "/fil_titulo_aberto_fornecedor.php"
+        },
+        {
+          "id": 769,
+          "label": "Título por Pessoa",
+          "link": "/fil_titulo_pessoa.php"
+        },
+        {
+          "id": 770,
+          "label": "Título por Portador",
+          "link": "/fil_titulo_portador.php"
+        },
+        {
+          "id": 771,
+          "label": "Títulos Aberto p/ Rede",
+          "link": "/fil_titulo_aberto_rede.php"
+        },
+        {
+          "id": 772,
+          "label": "Títulos Abertos",
+          "link": "/fil_titulo_aberto.php"
+        },
+        {
+          "id": 773,
+          "label": "Títulos à Receber por Portador",
+          "link": "/fil_titulo_credito_a_receber_portador.php"
+        },
+        {
+          "id": 774,
+          "label": "Títulos Emitidos",
+          "link": "/fil_titulo_credito_emitido.php"
+        },
+        {
+          "id": 775,
+          "label": "Títulos por Vendedor",
+          "link": "/fil_titulo_vendedor.php"
+        },
+        {
+          "id": 776,
+          "label": "Títulos Recebidos por Data",
+          "link": "/fil_titulo_recebido_data.php"
+        },
+        {
+          "id": 777,
+          "label": "Títulos Recebidos por Responsável",
+          "link": "/fil_titulo_cobranca_responsavel.php"
+        },
+        {
+          "id": 778,
+          "label": "Títulos sem Lote",
+          "link": "/fil_titulo_sem_lote.php"
+        },
+        {
+          "id": 779,
+          "label": "Venda vs Financeiro",
+          "link": "/fil_venda_financeiro.php"
+        },
+        {
+          "id": 780,
+          "label": "Vendedor Cobrança",
+          "link": "/fil_vendedor_cobranca.php"
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "label": "Carta de Anuência",
+      "link": "/fil_carta_anuencia.php"
+    },
+    {
+      "id": 764,
+      "label": "Carta de Anuência sem Retorno",
+      "link": "/fil_carta_anuencia_sem_retorno.php"
+    },
+    {
+      "id": 765,
+      "label": "Cliente Risco",
+      "link": "/fil_cliente_risco.php"
+    },
+    {
+      "id": 766,
+      "label": "Duplicata",
+      "link": "/fil_impressao_duplicata.php"
+    },
+    {
+      "id": 767,
+      "label": "Observações Título",
+      "link": "/fil_titulo_observacao_detalhado.php"
+    },
+    {
+      "id": 768,
+      "label": "Ocorrências de Cobranças",
+      "link": "/fil_ocorrencia_cobranca.php"
+    },
+    {
+      "id": 769,
+      "label": "Título Aberto Forn.",
+      "link": "/fil_titulo_aberto_fornecedor.php"
+    },
+    {
+      "id": 770,
+      "label": "Título por Pessoa",
+      "link": "/fil_titulo_pessoa.php"
+    },
+    {
+      "id": 771,
+      "label": "Título por Portador",
+      "link": "/fil_titulo_portador.php"
+    },
+    {
+      "id": 772,
+      "label": "Títulos Aberto p/ Rede",
+      "link": "/fil_titulo_aberto_rede.php"
+    },
+    {
+      "id": 773,
+      "label": "Títulos Abertos",
+      "link": "/fil_titulo_aberto.php"
+    },
+    {
+      "id": 774,
+      "label": "Títulos à Receber por Portador",
+      "link": "/fil_titulo_credito_a_receber_portador.php"
+    },
+    {
+      "id": 775,
+      "label": "Títulos Emitidos",
+      "link": "/fil_titulo_credito_emitido.php"
+    },
+    {
+      "id": 776,
+      "label": "Títulos por Vendedor",
+      "link": "/fil_titulo_vendedor.php"
+    },
+    {
+      "id": 777,
+      "label": "Títulos Recebidos por Data",
+      "link": "/fil_titulo_recebido_data.php"
+    },
+    {
+      "id": 778,
+      "label": "Títulos Recebidos por Responsável",
+      "link": "/fil_titulo_cobranca_responsavel.php"
+    },
+    {
+      "id": 779,
+      "label": "Títulos sem Lote",
+      "link": "/fil_titulo_sem_lote.php"
+    },
+    {
+      "id": 780,
+      "label": "Venda vs Financeiro",
+      "link": "/fil_venda_financeiro.php"
+    },
+    {
+      "id": 781,
+      "label": "Vendedor Cobrança",
+      "link": "/fil_vendedor_cobranca.php"
+    },
+    {
+      "id": 782,
+      "label": "Alteração Portador",
+      "link": "/man_altera_portador.php"
+    },
+    {
+      "id": 783,
+      "label": "Anuência",
+      "link": "/sel_anuencia.php"
+    },
+    {
+      "id": 784,
+      "label": "Importação Pgtos",
+      "link": "/exe_importacao_pagamentos.php"
+    },
+    {
+      "id": 785,
+      "label": "Pgto DMTOP",
+      "link": "/exe_importacao_pagamentos_dmtop.php"
+    },
+    {
+      "id": 786,
+      "label": "Título a Receber",
+      "link": "/sel_titulo_credito.php"
+    },
+    {
+      "id": 787,
+      "label": "Cliente Ecommerce",
+      "link": "/exe_atualiza_cliente_ecommerce.php"
+    },
+    {
+      "id": 788,
+      "label": "Prazo Médio Amplo",
+      "link": "/fil_prazo_medio_amplo.php"
+    }
+  ]
+}

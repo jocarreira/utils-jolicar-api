@@ -8,6 +8,7 @@ import com.jocarreira.utilsjolicarapi.model.ItemMenu;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
@@ -17,61 +18,30 @@ import java.util.List;
 @Service
 public class HtmlToJsonService {
 
-    private static String rootPathDest = "C:/MEUS_PROJETOS/Html2React2/MENUS/";
+    @Value("${url.menu.root}")
+    private String rootPathDest;
 
-    private static String urlArquivoJson = "C:/MEUS_PROJETOS/Html2React2/arquivo.json";
+    @Value("${url.menu.json,todos}")
+    private String urlArquivoJson;
+
+    private String UrlMenuJson;
+    @Value("${url.menu.json,financeiro}")
+    private String urlMenuJsonFinanceiro;
 
     private static String menuFinanceiro = "Financeiro";
     private static int idMenuFinanceiro = 563;
 
     private static String labelMenuFinanceiro = "\u003eFinanceiro";
 
-    public static void main(String[] args) {
-
-        ObjectMapper objectMapper = new ObjectMapper();
-        try {
-            List<ItemMenu> menu = objectMapper.readValue(
-                    new File(urlArquivoJson),
-                    new TypeReference<List<ItemMenu>>(){}
-            );
-            ItemMenu root = null;
-            for (ItemMenu item : menu) {
-                //if (item.getLabel().equals(labelMenuFinanceiro)
-                //        || item.getId() == idMenuFinanceiro) {
-                if (item.getLabel().equals(labelMenuFinanceiro)) {
-                    root = item;
-                    break;
-                } else if (item.getSubitems() != null
-                        && item.getSubitems().size() > 0) {
-                    ItemMenu subroot = findMenuItem(item.getSubitems(), labelMenuFinanceiro, idMenuFinanceiro);
-                    if (subroot != null) {
-                        root = subroot;
-                        break;
-                    }
-                }
-            }
-            // cria um builder Gson com a opção de pretty printing
-            GsonBuilder builder = new GsonBuilder().setPrettyPrinting();
-            // cria uma instância de Gson com as opções configuradas
-            Gson gson = builder.create();
-            String jsonFinal = gson.toJson(root);
-            FileUtil.makeDirectory(rootPathDest, menuFinanceiro);
-            FileUtil.writeToFile(rootPathDest +
-                    "/" + menuFinanceiro +
-                    "/" + menuFinanceiro + ".json", jsonFinal);
-
-        } catch (Exception e) {
-            System.out.println("Erro ao ler o arquivo JSON: " + e.getMessage());
-        }
-    }
-
-    public void createMenuItensJson(String urlArquivoJson, ItemMenu itemMenu) {
+    public String createMenuItensJson(ItemMenu itemMenu) {
+        String jsonFinal = null;
         String labelRootMenu = "\u003e" + itemMenu.getLabel();
         int idRootMenu = itemMenu.getId();
         ObjectMapper objectMapper = new ObjectMapper();
+        UrlMenuJson = getUrlMenuByIdAndLabel(itemMenu);
         try {
             List<ItemMenu> menu = objectMapper.readValue(
-                    new File(urlArquivoJson),
+                    new File(UrlMenuJson),
                     new TypeReference<List<ItemMenu>>(){}
             );
             ItemMenu root = null;
@@ -94,7 +64,7 @@ public class HtmlToJsonService {
             GsonBuilder builder = new GsonBuilder().setPrettyPrinting();
             // cria uma instância de Gson com as opções configuradas
             Gson gson = builder.create();
-            String jsonFinal = gson.toJson(root);
+            jsonFinal = gson.toJson(root);
             FileUtil.makeDirectory(rootPathDest, menuFinanceiro);
             FileUtil.writeToFile(rootPathDest +
                     "/" + menuFinanceiro +
@@ -103,6 +73,18 @@ public class HtmlToJsonService {
         } catch (Exception e) {
             System.out.println("Erro ao ler o arquivo JSON: " + e.getMessage());
         }
+        return jsonFinal;
+    }
+
+    private String getUrlMenuByIdAndLabel(ItemMenu itemMenu) {
+        String retorno = null;
+        if (itemMenu.getId() == 563 &&
+            "Financeiro".equals(itemMenu.getLabel())) {
+            retorno = this.urlMenuJsonFinanceiro;
+        } else {
+
+        }
+        return retorno;
     }
 
     private static ItemMenu findMenuItem(List<ItemMenu> menu, String labelElement, int idElement) {

@@ -1,0 +1,24 @@
+	Tipo: input
+	Nome: f_produto_venda_armazem_cd_produto
+	Valor: 
+	Tipo: input
+	Nome: f_produto_venda_armazem_nm_produto
+	Valor: 
+	Tipo: input
+	Nome: f_produto_venda_armazem_cd_grupo
+	Valor: 
+	Tipo: input
+	Nome: f_produto_venda_armazem_nm_grupo
+	Valor: 
+	Tipo: input
+	Nome: f_produto_venda_armazem_ds_mascara
+	Valor: 
+	Tipo: input
+	Nome: f_produto_venda_armazem_ds_codigo_fornecedor
+	Valor: 
+	Tipo: input
+	Nome: f_produto_venda_armazem_ds_codigo_barras
+	Valor: 
+	Tipo: input
+	Nome: f_reset_filter
+	Valor: Limpar
